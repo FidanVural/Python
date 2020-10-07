@@ -1,7 +1,7 @@
 import requests
 import sys
 
-# birincidöviz=input("Birinci döviz:")    #### bizim birinci dövizimiz hep EUR çünkğ site bize sadece EUR'yi diğer para birimlerine çevirme olayını sunuyor
+# birincidöviz=input("Birinci döviz:")    #### bizim birinci dövizimiz hep EUR çünkü site bize sadece EUR'yi diğer para birimlerine çevirme olayını sunuyor
 # ama biz şöyle bir trick yapabiliriz -> print kısmı :)
 
 birincidöviz=input("Birinci döviz:")
